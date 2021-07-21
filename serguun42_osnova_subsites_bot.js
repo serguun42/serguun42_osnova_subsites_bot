@@ -37,7 +37,7 @@ const TGE = iStr => {
 const {
 	SITES,
 	TELEGRAM
-} = require("./serguun42_osnvoa_subsites_bot.config.json");
+} = require("./serguun42_osnova_subsites_bot.config.json");
 
 
 const telegraf = new Telegraf.Telegraf(TELEGRAM.TOKEN);

@@ -2,9 +2,9 @@
   "name": "serguun42_osnova_subsites_bot",
   "version": "1.0.0",
   "description": "",
-  "main": "subsites-updates-bot.js",
+  "main": "serguun42_osnova_subsites_bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start_bot": "node ./serguun42_osnova_subsites_bot.js"
   },
   "keywords": [],
   "author": "",
