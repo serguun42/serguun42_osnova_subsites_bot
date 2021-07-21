@@ -1,0 +1,23 @@
+{
+	"SITES": [
+		{
+			"name": "TJournal",
+			"shortname": "tj",
+			"sitemap_link": "https://tjournal.ru/sitemap/standard.xml"
+		},
+		{
+			"name": "DTF",
+			"shortname": "dtf",
+			"sitemap_link": "https://dtf.ru/sitemap/standard.xml"
+		},
+		{
+			"name": "vc.ru",
+			"shortname": "vc",
+			"sitemap_link": "https://vc.ru/sitemap/standard.xml"
+		}
+	],
+	"TELEGRAM": {
+		"TOKEN": "0000000000000000:AAAAAAAAAAAAAAAAAAAAAAAAA",
+		"CHANNEL": -1000123456789
+	}
+}
