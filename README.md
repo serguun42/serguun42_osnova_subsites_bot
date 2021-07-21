@@ -21,6 +21,6 @@
 
 * `npm install --only=prod` – установить необходимые npm-зависимости
 * `npm run start_bot` – запуск бота
-* `start-subsites-bot.sh` – запуск бота с указанием класть логи в файлы
+* `start-subsites-bot.sh` – запуск бота с указанием класть логи в файлы. Рекомендую настроить запуск через `crontab`
 * `show-logs.sh` – просмотр логов
 * `clear-logs.sh` – очистка логов
